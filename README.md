@@ -22,3 +22,10 @@ git clone https://github.com/shishiradk/statstics.git
 cd statstics
 pip install -r requirements.txt
 jupyter notebook
+
+statstics/
+├── descriptive/       # Measures of central tendency & variability
+├── inferential/       # Hypothesis tests, confidence intervals
+├── probability/       # Distributions & simulations
+├── datasets/          # Analysis-ready data
+└── visualizations/    # Statistical graphs
